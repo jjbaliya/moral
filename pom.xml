@@ -43,5 +43,6 @@
 			</resource>
 		</resources>
 		<finalName>moral</finalName>
+                <defaultGoal>compile</defaultGoal>
 	</build>
 </project>
